@@ -56,6 +56,13 @@ Welcome to my Quantitative Finance Projects repository! This collection features
 - [Stock_Prediction_by_AI_Algorithms.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Stock_Prediction_by_AI_Algorithms.ipynb)
 - [Load_Pretrained_AI_Model_for_Stock_Prediction.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Load_Pretrianed_AI_Model_for_Stock_Prediction.ipynb)
 
+- - **Objective**: Develop and backtest algorithmic trading strategies.
+- **Tools**: Web scraping, SQL database, XGBoost, Random Forest, Neural Network, LSTM.
+- **Features**:
+  - Collect and organize data into weekly datasets.
+  - Train models and perform backtesting.
+  - Load pre-trained models to run updated portfolios and review past performance.
+
 ---
 
 Each project is designed to be easily reproducible and demonstrates practical applications of quantitative finance techniques. Feel free to explore the notebooks and reach out if you have any questions or feedback.
