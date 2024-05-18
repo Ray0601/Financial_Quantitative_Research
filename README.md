@@ -52,9 +52,9 @@ Welcome to my Quantitative Finance Projects repository! This collection features
 
 ## 5. Algorithmic Trading Strategy and Backtesting
 **Jupyter Notebooks:**
-- [Web_Scraping_SQL_Data_Organize.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Web_Sraping_SQL_Data_Organize.ipynb)
-- [Stock_Prediction_by_AI_Algorithms.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Stock_Prediction_by_AI_Algorithms.ipynb)
-- [Load_Pretrained_AI_Model_for_Stock_Prediction.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Load_Pretrianed_AI_Model_for_Stock_Prediction.ipynb)
+- [**Web_Scraping_SQL_Data_Organize.ipynb**](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Web_Sraping_SQL_Data_Organize.ipynb)
+- [**Stock_Prediction_by_AI_Algorithms.ipynb**](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Stock_Prediction_by_AI_Algorithms.ipynb)
+- [**Load_Pretrained_AI_Model_for_Stock_Prediction.ipynb**](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Load_Pretrianed_AI_Model_for_Stock_Prediction.ipynb)
 
 - - **Objective**: Develop and backtest algorithmic trading strategies.
 - **Tools**: Web scraping, SQL database, XGBoost, Random Forest, Neural Network, LSTM.
