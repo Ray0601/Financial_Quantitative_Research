@@ -27,7 +27,7 @@ Welcome to my Quantitative Finance Projects repository! This collection features
 - **Features**:
   - Select a set of stocks and fetch their historical data.
   - Compute expected returns and volatility.
-  - Visualize optimal asset allocation for portfolio.
+  - Visualize optimal asset allocation for portfolio allocation.
 
 ## 3. Treasury, Index, and Stock Visualization
 **Jupyter Notebook: [Treasury_Index_Stock_Visualization.ipynb](https://github.com/Ray0601/Financial_Quantitative_Research/blob/main/Treasury_Index_Stock_Visualizaiton.ipynb)**
