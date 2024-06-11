@@ -1,0 +1,81 @@
+date,Algorithm,Type,ticker,marketcap,closeadj,sector
+2024-06-07,XGBoost,Short,LDWY,9.6,5.405,Communication Services
+2024-06-07,XGBoost,Short,VCNX,10.7,6.78,Healthcare
+2024-06-07,XGBoost,Short,NTRB,60.1,5.45,Healthcare
+2024-06-07,XGBoost,Short,BNTC,71.7,7.65,Healthcare
+2024-06-07,XGBoost,Short,CRBP,457.4,42.8,Healthcare
+2024-06-07,XGBoost,Short,JANX,2774.0,53.5,Healthcare
+2024-06-07,XGBoost,Short,BCG,179.6,10.84,Financial Services
+2024-06-07,XGBoost,Short,SINT,4.4,7.25,Healthcare
+2024-06-07,XGBoost,Short,DTSS,15.7,5.13,Technology
+2024-06-07,XGBoost,Short,CVNA,20252.6,99.98,Consumer Cyclical
+2024-06-07,Random Forest,Short,TISI,37.8,8.57,Industrials
+2024-06-07,Random Forest,Short,CALC,61.1,5.68,Healthcare
+2024-06-07,Random Forest,Short,PRPO,8.5,5.76,Healthcare
+2024-06-07,Random Forest,Short,KALA,18.9,6.72,Healthcare
+2024-06-07,Random Forest,Short,BODI,60.1,8.75,Communication Services
+2024-06-07,Random Forest,Short,NTRB,60.1,5.45,Healthcare
+2024-06-07,Random Forest,Short,ONCT,27.3,9.21,Healthcare
+2024-06-07,Random Forest,Short,SINT,4.4,7.25,Healthcare
+2024-06-07,Random Forest,Short,MEDS,9.2,6.57,Consumer Defensive
+2024-06-07,Random Forest,Short,DTSS,15.7,5.13,Technology
+2024-06-07,Neural Network,Short,SKYE,325.9,11.61,Healthcare
+2024-06-07,Neural Network,Short,RANI,277.3,5.5,Healthcare
+2024-06-07,Neural Network,Short,SINT,4.4,7.25,Healthcare
+2024-06-07,Neural Network,Short,BRLS,194.3,9.09,Consumer Defensive
+2024-06-07,Neural Network,Short,SGMT,170.1,5.33,Healthcare
+2024-06-07,Neural Network,Short,CGC,650.0,8.53,Healthcare
+2024-06-07,Neural Network,Short,BCG,179.6,10.84,Financial Services
+2024-06-07,Neural Network,Short,CADL,264.7,8.9,Healthcare
+2024-06-07,Neural Network,Short,DTSS,15.7,5.13,Technology
+2024-06-07,Neural Network,Short,BNAI,181.3,5.44,Technology
+2024-06-07,Long Short Term Memory,Short,KRRO,475.7,51.3,Healthcare
+2024-06-07,Long Short Term Memory,Short,CLX,16338.2,131.56,Consumer Defensive
+2024-06-07,Long Short Term Memory,Short,SKYE,325.9,11.61,Healthcare
+2024-06-07,Long Short Term Memory,Short,MEDS,9.2,6.57,Consumer Defensive
+2024-06-07,Long Short Term Memory,Short,CLSK,3661.9,16.07,Financial Services
+2024-06-07,Long Short Term Memory,Short,SLNO,1405.9,42.08,Healthcare
+2024-06-07,Long Short Term Memory,Short,GYRE,971.4,11.36,Healthcare
+2024-06-07,Long Short Term Memory,Short,ASPI,264.5,5.11,Basic Materials
+2024-06-07,Long Short Term Memory,Short,GCT,1276.4,31.14,Technology
+2024-06-07,Long Short Term Memory,Short,SYRE,1407.9,34.95,Healthcare
+2024-06-07,XGBoost,Long,HSCS,3.6,5.5,Healthcare
+2024-06-07,XGBoost,Long,BNAI,181.3,5.44,Technology
+2024-06-07,XGBoost,Long,EBS,298.7,5.7,Healthcare
+2024-06-07,XGBoost,Long,SMMT,6096.7,8.685,Healthcare
+2024-06-07,XGBoost,Long,CGC,650.0,8.53,Healthcare
+2024-06-07,XGBoost,Long,SMTK,12.4,8.63,Technology
+2024-06-07,XGBoost,Long,XOS,62.5,7.94,Consumer Cyclical
+2024-06-07,XGBoost,Long,MTEX,14.6,7.745,Consumer Defensive
+2024-06-07,XGBoost,Long,AIRT,71.6,25.38,Industrials
+2024-06-07,XGBoost,Long,KLXE,86.2,5.11,Energy
+2024-06-07,Random Forest,Long,BUJA,82.6,10.64,Industrials
+2024-06-07,Random Forest,Long,BOWN,96.6,10.54,Industrials
+2024-06-07,Random Forest,Long,PHUN,53.7,6.49,Technology
+2024-06-07,Random Forest,Long,HSCS,3.6,5.5,Healthcare
+2024-06-07,Random Forest,Long,KLXE,86.2,5.11,Energy
+2024-06-07,Random Forest,Long,SKIL,78.2,9.66,Consumer Defensive
+2024-06-07,Random Forest,Long,AIRT,71.6,25.38,Industrials
+2024-06-07,Random Forest,Long,VINO,4.9,5.605,Real Estate
+2024-06-07,Random Forest,Long,SMTK,12.4,8.63,Technology
+2024-06-07,Random Forest,Long,VRM,19.1,10.56,Consumer Cyclical
+2024-06-07,Neural Network,Long,STTK,350.9,7.38,Healthcare
+2024-06-07,Neural Network,Long,DJT,8674.2,49.09,Communication Services
+2024-06-07,Neural Network,Long,CDNA,677.6,13.01,Healthcare
+2024-06-07,Neural Network,Long,VINO,4.9,5.605,Real Estate
+2024-06-07,Neural Network,Long,SPIR,236.3,9.15,Industrials
+2024-06-07,Neural Network,Long,ALT,532.5,7.51,Healthcare
+2024-06-07,Neural Network,Long,BAND,543.7,20.13,Technology
+2024-06-07,Neural Network,Long,NVCT,124.3,6.77,Healthcare
+2024-06-07,Neural Network,Long,SRZN,35.9,11.21,Healthcare
+2024-06-07,Neural Network,Long,SAGE,668.6,11.11,Healthcare
+2024-06-07,Long Short Term Memory,Long,MSFT,3085373.1,415.13,Technology
+2024-06-07,Long Short Term Memory,Long,SINT,4.4,7.25,Healthcare
+2024-06-07,Long Short Term Memory,Long,AAPL,2947977.3,192.25,Technology
+2024-06-07,Long Short Term Memory,Long,V,547645.5,272.46,Financial Services
+2024-06-07,Long Short Term Memory,Long,AMZN,1836145.3,176.44,Consumer Cyclical
+2024-06-07,Long Short Term Memory,Long,NVDA,2696971.8,1096.33,Technology
+2024-06-07,Long Short Term Memory,Long,HD,332061.8,334.87,Consumer Cyclical
+2024-06-07,Long Short Term Memory,Long,CVX,299769.6,162.3,Energy
+2024-06-07,Long Short Term Memory,Long,GOOGL,2131755.0,172.5,Communication Services
+2024-06-07,Long Short Term Memory,Long,RUN,3205.2,14.46,Technology
